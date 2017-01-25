@@ -1,0 +1,19 @@
+.button {
+  width: 80%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.graphPlaceholder {
+  width: 730px;
+  height: 250px;
+  background-color: grey;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
